@@ -1,6 +1,8 @@
 codecombat docker dev setup
 =================
 
+THIS PROJECT IS NO LONGER MAINTAINED
+
 Introduction
 --------------
 
